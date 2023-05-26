@@ -1,5 +1,5 @@
 # Site Link : 
-https://mern-chat1100.herokuapp.com/
+[https://main--radiant-bienenstitch-57597a.netlify.app/]
 
 
 # Chat-App : 
